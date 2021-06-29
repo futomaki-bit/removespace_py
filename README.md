@@ -2,7 +2,7 @@
 
 Remove extra space from a text file.
 
-Requested by someome. A certain website with annoying spaces and newlines to annoy people for copy pasting/quoting their content.
+Requested by someome. A certain website with **annoying** spaces and newlines to annoy people for copy pasting/quoting their content.
 
 ### Instructions:
 1. Put desired content in *removespace.txt*
